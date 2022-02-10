@@ -1,0 +1,19 @@
+
+# Online Python - IDE, Editor, Compiler, Interpreter
+
+a=int(input("Enter number"))
+if a>0:
+    print("Positive")
+else:
+    print("Negative")
+    
+    
+    output:
+    
+    Enter number
+-8
+Negative
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
